@@ -29,7 +29,7 @@ Love the content? Consider Subscribing: https://tinyurl.com/ydx35uwd
 * vim
 * lightdm
 * slim
-* slimlocl
+* slimlock
 * dunst
 
 ## Installation (Arch/Artix) WIP

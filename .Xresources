@@ -1,0 +1,16 @@
+
+! -- REMOVE SCROLLBAR -- !
+URxvt.scrollBar: false
+
+!-- FONTS -- !
+URxvt.font: xft:Source Code Pro:size=7
+
+! -- PERL SCRIPTS -- !
+URxvt.perl-ext-common: default,matcher,resize-font
+
+! -- CLICKABLE URLS -- !
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.matcher.button: 1
+
+! -- BORDER -- !
+URxvt.internalBorder: 20

@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/MAC-NO-blueviolet?style=for-the-badge">
 </p>
 
-![alt text](https://raw.githubusercontent.com/VaughnValle/elektropunk/master/images/cyberwal.png "Preview")
+![alt text](https://raw.githubusercontent.com/VaughnValle/elektropunk/master/images/punky.gif "Preview")
 
 Elektropunk is a lightweight and minimalist, Cyberpunk 2077-inspired Linux setup using Artix Linux. This setup uses BSPWM as the tiling window manager.
 
@@ -30,6 +30,10 @@ Love the content? Consider Subscribing: https://tinyurl.com/ydx35uwd
 * slim
 * slimlock
 * dunst
+* wpgtk
+
+## Colorscheme WIP
+![alt text](https://raw.githubusercontent.com/VaughnValle/elektropunk/master/wpg/samples/wal3.png_wal_sample.png)
 
 ## Installation (Arch/Artix) WIP
 

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/vaughnvalle/.config/wpg/wallpapers/wal1.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#08011a",
+        "foreground": "#cfcfde",
+        "cursor": "#cfcfde"
+    },
+    "colors": {
+        "color0": "#08011a",
+        "color1": "#630d82",
+        "color2": "#313183",
+        "color3": "#3b3188",
+        "color4": "#3a3c95",
+        "color5": "#7c0f95",
+        "color6": "#404090",
+        "color7": "#9b9dba",
+        "color8": "#111141",
+        "color9": "#8a07ac",
+        "color10": "#4141bd",
+        "color11": "#4437bd",
+        "color12": "#4b4bd7",
+        "color13": "#a610c6",
+        "color14": "#383bc0",
+        "color15": "#cfcfde"
+    }
+}

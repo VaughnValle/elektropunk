@@ -27,7 +27,6 @@ Love the content? Consider Subscribing: https://tinyurl.com/ydx35uwd
 * oh my zsh!
 * powerlevel10k
 * vim
-* lightdm
 * slim
 * slimlock
 * dunst

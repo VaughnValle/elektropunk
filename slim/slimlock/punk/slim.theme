@@ -1,0 +1,40 @@
+; SLiM Theme - Blue Sky
+; --------------------------------------------------------
+; https://github.com/owl4ce/dotfiles
+
+
+# Messages (ie: shutdown)
+
+msg_color               #edfefe
+msg_font                Sans:size=16:bold:dpi=75
+msg_x                   50%
+msg_y                   25%
+
+# Session Name
+
+session_color               #edfefe
+session_font                Sans:size=16:bold:dpi=75
+session_x                   50%
+session_y                   91%
+
+# valid values: stretch, tile
+
+background_style        stretch
+background_color        #edfefe
+
+# Input controls
+
+input_panel_x           50%
+input_panel_y           50%
+#input_name_x            665
+#input_name_y            205
+input_name_x            430
+input_name_y            340
+input_pass_x            430
+#input_pass_y            480
+input_pass_y            1000
+input_font              Cyberpunk:size=25:dpi=75
+input_color             #00FFFF
+
+username_msg            
+password_msg            

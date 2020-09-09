@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=TLauncher
+Comment=TLauncher is Minecraft Launcher
+Icon=minecraft
+#Exec=/usr/bin/tlauncher
+Exec=/home/vaughnvalle/.config/scripts/./tl
+NoDisplay=false
+Categories=Application;Game;
+StartupNotify=false
+Terminal=false

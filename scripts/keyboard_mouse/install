@@ -1,0 +1,6 @@
+#! /bin/bash
+
+cp {enable_kb,enable_mouse,disable_kb,disable_mouse} /usr/local/bin
+cp udev/91-local.rules /etc/udev/rules.d/
+udevadm control --reload-rules && udevadm trigger
+echo "Install complete"

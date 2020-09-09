@@ -1,0 +1,3 @@
+#!/bin/zsh
+
+prime-run java -jar ~/Downloads/TLauncher/TLauncher-2.72.jar

@@ -1,0 +1,4 @@
+#!/bin/bash
+xinput disable 'SynPS/2 Synaptics TouchPad'
+xinput set-prop "SynPS/2 Synaptics TouchPad" "libinput Tapping Enabled" 1
+xinput set-prop "SynPS/2 Synaptics TouchPad" "libinput Natural Scrolling Enabled" 1

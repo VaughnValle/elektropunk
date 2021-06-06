@@ -10,11 +10,14 @@
 Elektropunk is a lightweight and minimalist, Cyberpunk 2077-inspired Linux setup using Artix Linux. This setup uses BSPWM as the tiling window manager.
 
 
-Love the content? Consider supporting me __on these platforms:__  
+Love the content? Help me reach my goal of upgrading my laptop integrated GPU; any amount helps :)
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8QCEHJMN43VAE)
+
+Or consider supporting me __on these platforms:__  
 
 [![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/sudo_rice)
 [![](https://raw.githubusercontent.com/VaughnValle/demo/master/yt-badge.png)](https://www.youtube.com/sudo_rice)
-
 
 ## Dependencies
 * bspwm
